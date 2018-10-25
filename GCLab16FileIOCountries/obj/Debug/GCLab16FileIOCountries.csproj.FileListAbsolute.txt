@@ -1,0 +1,7 @@
+C:\Users\seank\source\repos\GCLab16FileIOCountries\GCLab16FileIOCountries\bin\Debug\GCLab16FileIOCountries.exe.config
+C:\Users\seank\source\repos\GCLab16FileIOCountries\GCLab16FileIOCountries\bin\Debug\GCLab16FileIOCountries.exe
+C:\Users\seank\source\repos\GCLab16FileIOCountries\GCLab16FileIOCountries\bin\Debug\GCLab16FileIOCountries.pdb
+C:\Users\seank\source\repos\GCLab16FileIOCountries\GCLab16FileIOCountries\obj\Debug\GCLab16FileIOCountries.csprojAssemblyReference.cache
+C:\Users\seank\source\repos\GCLab16FileIOCountries\GCLab16FileIOCountries\obj\Debug\GCLab16FileIOCountries.csproj.CoreCompileInputs.cache
+C:\Users\seank\source\repos\GCLab16FileIOCountries\GCLab16FileIOCountries\obj\Debug\GCLab16FileIOCountries.exe
+C:\Users\seank\source\repos\GCLab16FileIOCountries\GCLab16FileIOCountries\obj\Debug\GCLab16FileIOCountries.pdb
